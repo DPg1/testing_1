@@ -9,3 +9,6 @@ asdasd
 asdsadasd
 
 Edited FROM grana 2 (delete 1)
+
+Edited FROM grana (popravka za login)
+
